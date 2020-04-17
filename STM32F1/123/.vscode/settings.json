@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "RJ_LED.C": "cpp",
+        "RJ_KEY.C": "cpp",
+        "RJ_PWM.C": "cpp"
+    }
+}
